@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pranav Kini</h1>
+
 - 🔭 I’m currently working on **LipNet**
 
 - 🌱 I’m currently learning **React, Next**
