@@ -1,7 +1,4 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo22658
-Fork on GitHub7480
+
 <h1 align="center">Hi 👋, I'm Pranav Kini</h1>
 - 🔭 I’m currently working on **LipNet**
 
